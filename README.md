@@ -23,21 +23,37 @@ This project explores air quality levels in the Kanjurmarg area of Mumbai, known
 ## 📂 Project Structure
 
 kanjurmarg-air-quality-project/
+
 ├── data/
+
 │ └── simulated_air_quality_data.csv
+
 ├── notebooks/
+
 │ └── air_quality_analysis.ipynb
+
 ├── src/
+
 │ └── data_ingestion.py
+
 │ └── data_analysis.py
+
 │ └── data_visualization.py
+
 ├── outputs/
+
 │ └── figures/
+
 │ └── pm25_trend.png
+
 ├── README.md
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── config.txt
+
 └── .gitignore
 
 
@@ -66,5 +82,3 @@ pip install -r requirements.txt
 python main.py
 
 
-## 📜 License
-Open-source under the MIT License.
