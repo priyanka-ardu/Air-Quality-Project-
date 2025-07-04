@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+outputs/figures/*.png
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode and other editor settings
+.vscode/
+*.code-workspace
+
+# MacOS system files
+.DS_Store
+
+# Python dependency files
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# dotenv environment variables
+.env
+
+# Package installer logs
+pip-log.txt
+
+# Compiled Cython files
+*.c
+*.so
